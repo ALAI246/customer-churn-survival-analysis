@@ -76,6 +76,17 @@ This project demonstrates how data-driven approaches can:
 * Improve retention strategies
 * Support decision-making with predictive insights
 
+  -----
+  
+## 📂 File Structure
+* `churn_analysis.ipynb`: The complete end-to-end data science pipeline.
+* `telco_churn.csv`: Raw customer data.
+* `model_predictions.csv`: Output of the Random Forest model for business use.
+
+## 📝 How to Use
+1. Clone the repo: `git clone https://github.com/ALAI246/customer-churn-survival-analysis.git`
+2. Install dependencies: `pip install -r requirements.txt`
+3. Run the Jupyter Notebook to see the step-by-step analysis.
 ---
 
 ## 👨‍💻 Author
