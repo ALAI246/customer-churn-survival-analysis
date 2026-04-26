@@ -47,11 +47,11 @@ The objective is not only to identify *who* is likely to churn, but also *when* 
 
 ### Survival Curve
 The Kaplan-Meier curve below shows the probability of a customer staying with the company over time.
-![Survival Curve](./survival_curve.png)
+![Survival Curve](./images/survival_curve.png)
 
 ### Model Evaluation
 The confusion matrix shows our Random Forest's ability to distinguish between loyal and churning customers.
-![Confusion Matrix](./confusion_matrix.png)
+![Confusion Matrix](./images/confusion_matrix.png)
 
 ---
 
@@ -91,6 +91,6 @@ This project demonstrates how data-driven approaches can:
 
 ## 👨‍💻 Author
 
-**Reagan Omondi**
+**Reagan Alai  Omondi**
 Data Analyst | Machine Learning | Survival Analysis
 
