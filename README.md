@@ -43,6 +43,16 @@ The objective is not only to identify *who* is likely to churn, but also *when* 
 * Confusion matrix and classification metrics
 * Feature importance insights
 
+  ## 📈 Visual Insights
+
+### Survival Curve
+The Kaplan-Meier curve below shows the probability of a customer staying with the company over time.
+![Survival Curve](./survival_curve.png)
+
+### Model Evaluation
+The confusion matrix shows our Random Forest's ability to distinguish between loyal and churning customers.
+![Confusion Matrix](./confusion_matrix.png)
+
 ---
 
 ## 📂 Project Structure
