@@ -54,7 +54,23 @@ The confusion matrix shows our Random Forest's ability to distinguish between lo
 ![Confusion Matrix](./images/confusion_matrix.png)
 
 ---
+## 📊 Key Results
 
+### 🔹 Churn Rate
+- Calculated overall churn rate to understand customer loss
+
+### 🔹 Logistic Regression
+- Built a classification model to predict churn
+- Evaluated using accuracy metric
+
+### 🔹 Survival Analysis
+- Kaplan-Meier estimator used to analyze customer retention over time
+- Provided probability of customers staying active
+
+### 🔹 Cox Model Insights
+- Identified impact of Monthly Charges on churn risk
+- Estimated hazard
+- 
 ## 📂 Project Structure
 
 ```
